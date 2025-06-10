@@ -8,3 +8,5 @@ pypdf>=3.15.0
 tqdm>=4.66.0
 python-dotenv
 pandas
+matplotlib
+numpy
