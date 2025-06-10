@@ -14,10 +14,9 @@ pip install exam_sort_ocr
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
-
-``` python
-1+1
-```
-
-    2
+Recordatorio:
+- Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+- .\venv\Scripts\Activate.ps1                               
+- pip install ipykernel notebook
+- python -m ipykernel install --user --name=venv --display-name "Python 3.13 (venv)"
+- 
