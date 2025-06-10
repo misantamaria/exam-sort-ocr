@@ -10,3 +10,4 @@ python-dotenv
 pandas
 matplotlib
 numpy
+rapidfuzz>=3.13.0
