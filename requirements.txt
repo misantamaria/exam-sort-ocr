@@ -11,3 +11,6 @@ pandas
 matplotlib
 numpy
 rapidfuzz>=3.13.0
+cv2
+opencv-python
+openpyxl
