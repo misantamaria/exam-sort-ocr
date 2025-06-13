@@ -151,3 +151,4 @@ checklink/cookies.txt
 .quarto
 example_data/_user_prompt.md
 data/
+nbs/data/
